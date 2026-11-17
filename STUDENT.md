@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Đỗ Huy Kiên
+- MSHV: 2A202603216
+- Lớp (L2 / L3 / khác): L2
+- Tài khoản GitHub: dohuykienkansy
+- Repo bài nộp (URL): https://github.com/dohuykienkansy/K5-L23-Day08-DoHuyKien-2A202603216-AI-Assisted-Labeling.git
+- Commit chốt bài (hash): <<điền hash commit cuối cùng khi nộp bài>>
+- Máy: Windows 11, NVIDIA GeForce RTX 4050 Laptop GPU (CUDA)
+- CVAT (Docker): v2.81.0
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
