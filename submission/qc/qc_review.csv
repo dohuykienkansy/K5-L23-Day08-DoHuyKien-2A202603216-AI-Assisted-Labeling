@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Đỗ Huy Kiên,Ảnh sạch đối tượng ôm sát đúng chuẩn v1.1
+img_006.jpg,bo_sot_01,bo_sot,Đỗ Huy Kiên,Bỏ sót người đi bộ nhỏ ở hậu cảnh (bẫy missing)
+img_013.jpg,,khong,Đỗ Huy Kiên,Xe tuk-tuk và người lái được tách đúng quy tắc v1.1
+img_014.jpg,,khong,Đỗ Huy Kiên,Các phương tiện và người đi bộ gán chính xác
+img_018.jpg,182,sai_vi_tri_kich_thuoc,Đỗ Huy Kiên,Box xe máy bị vẽ rộng lỏng lệch biên quá 2px (bẫy loose)
+img_022.jpg,,khong,Đỗ Huy Kiên,Ảnh sạch các box phương tiện ôm sát viền
+img_033.jpg,493,thua,Đỗ Huy Kiên,Box ma xuất hiện ở khoảng trống hậu cảnh (bẫy extra)
+img_035.jpg,535,thua,Đỗ Huy Kiên,Box ô tô ma ở khoảng trống lề đường (bẫy extra)
